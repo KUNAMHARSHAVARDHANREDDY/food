@@ -1,0 +1,197 @@
+.bg-container{
+    background-image: url('https://cdn.pixabay.com/photo/2023/09/27/10/48/portfolio-8279357_640.jpg');
+    padding-bottom: 100px;
+    background-size: cover;
+}
+.port-image{
+    height:400px;
+    width:420px;
+    border-radius: 50%;
+    margin-top:110px;
+}
+.name-intro{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 38px;
+}
+.span-intro{
+    color:rgb(22, 208, 245);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 48px;
+}
+.para-info{
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+.port-info{
+    background-color:rgba(0, 0, 0, 0.684);
+    margin-top:160px;
+    padding:20px;
+    border-radius: 7px;
+}
+.button-mywork{
+    background-color:rgb(22, 204, 245) ;
+    color:white;
+    border-radius: 20px;
+    height:35px;
+    width:130px;
+    border-width: 0px;
+    margin-right: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button-outline{
+    background-color:transparent ;
+    color:rgb(22, 204, 245);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    height:35px;
+    width:130px;
+    border-width: 1px;
+    border-color:rgb(22, 204, 245) ;
+}
+.img-logo{
+    height: 50px;
+    width:100px;
+}
+#man-hint{
+    color:rgb(9, 9, 9);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 9px;
+    margin-right:3px;
+    margin-left:3px;
+   background-color: rgb(22, 223, 245);
+ 
+
+}
+#man-hint:hover{
+    background-color:rgb(121, 57, 4)  ;
+    color:white;
+}
+.main-intern-head{
+    padding-top:30px;
+    
+    color:rgb(22, 215, 245);
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 38px;
+}
+.bg-about{
+    background-image:linear-gradient(black,rgb(42, 41, 41),black,rgb(42, 42, 42),black);
+    
+    
+}
+.head-html{
+    color:rgb(22, 219, 245);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 28px;
+}
+.html-para{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+.card-intern{
+    background-color: rgba(42, 41, 41, 0.767);
+     
+     width:600px;
+     margin-top:50px;
+     padding:20px;
+     
+     border-radius: 12px;
+     border-style: solid;
+     border-width: 2px;
+     border-color: rgb(22, 223, 245);
+}
+.img-tech{
+    margin-top:50px;
+    height:350px;
+    width:500px;
+    
+}
+.bg-aboutme{
+    background-image: url('https://wallpapers.com/images/file/orange-and-black-background-5000-x-2976-nwbv6vjaqs4z6myo.jpg');
+    
+    background-size: cover;
+}
+.immg-about{
+    height:300px;
+    width:240px;
+    border-radius: 50%;
+    border-style:double;
+    border-width: 5px;
+    border-color:rgb(22, 238, 245) ;
+}
+.port-info1{
+    background-color:rgba(0, 0, 0, 0.608);
+    margin-top:30px;
+    padding:20px;
+    border-radius: 9px;
+}
+.span-name{
+    color:rgb(22, 219, 245);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 19px;
+}
+.follow-us-icon-container{
+    background-color: rgb(248, 246, 245);
+    width:80px;
+    height:80px;
+    border-radius:40px;
+    margin:15px;
+    padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+ 
+}
+.icon {
+    color:rgb(22, 234, 245);
+    font-size: 35px;
+}
+.icon-tern{
+    color:rgb(22, 230, 245);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 20px;
+    text-align:center;
+}
+.bgcontainerfollow{
+    background-color: black;
+   
+}
+.img-footer{
+    margin-top:40px;
+    height:60px;
+    width:120px;
+}
+.head-footer{
+    color:rgb(22, 234, 245);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 10px;
+    text-align:center;
+}
+.bg-footer{
+    background-size: cover;
+    background-image: url('https://wallpaperaccess.com/full/173884.jpg');
+}
+
+.img-footer1{
+    height:110px;
+    width:160px;
+}

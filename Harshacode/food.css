@@ -1,0 +1,197 @@
+@import url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUlOCj-96dB5fMHvrJbQbOpO1ON1rqHY7KoQ&s');
+
+.bg-container{
+    background-image: url('https://images.pexels.com/photos/1640773/pexels-photo-1640773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    height:100vh;
+}
+.img-logo{
+    height:70px;
+    width:80px;
+}
+#man-hint{
+    color:rgb(3, 3, 3);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(222, 113, 11);
+    border-radius: 9px;
+    margin-right:3px;
+    margin-left:3px;
+  
+ 
+
+}
+.banner-heading{
+    font-family:Roboto;
+    font-size:38px;
+    font-weight: bold;
+    padding:8px;
+    color:rgb(251, 253, 254);
+
+    
+}
+.banner-para{
+    font-family:Roboto;
+    font-size:20px;
+    font-weight: bold;
+    padding:8px;
+    color:rgb(243, 241, 239);
+}
+.custom-button{
+    background-color: rgb(222, 113, 11);
+    border-radius: 9px;
+    border-width: 0px;
+    height:38px;
+    width:110px;
+    margin-right:12px;
+    color:white;
+}
+.custom-outline-button{
+    background-color: transparent;
+    color:rgb(222, 113, 11);
+    border-radius: 9px;
+    border-width: 0px;
+    height:38px;
+    width:110px;
+    margin-left:12px;
+    border-style: solid;
+    border-width:1px;
+    border-color:rgb(222, 113, 11);
+}
+.banner-bg{
+    background-color: rgba(0, 0, 0, 0.536);
+    width:500px;
+    padding:30px;
+    margin:auto;
+    border-radius: 10px;
+    
+}
+.menucard-head{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: 700;
+}
+.item-name{
+color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+
+.item-image{
+    border-radius:18px;
+}
+.mcard{
+    background-color: rgb(241, 244, 246);
+    border-radius: 18px;
+}
+.viewall{
+    color:rgb(52, 136, 12);
+}
+.menu-section{
+    background-color: rgb(246, 153, 65);
+}
+.wvcsection-bg{
+    background-color: rgb(230, 233, 233);
+}
+
+.wvc-desc{
+    color:#242f39;
+    font-family: Roboto;
+    font-size:22px;
+}
+.wvc-image{
+    width:90px;
+    height:90px;
+}
+.wvc-head{
+    color:#252014;
+    font-family: Roboto;
+    font-size:21px;
+
+}
+.wvc-para{
+    color:#314556;
+    font-family: Roboto;
+    font-size:18px;
+    padding:10px;
+}
+.wvc-card{
+    background-color: rgb(223, 219, 207);
+    border-radius: 10px;
+    border-color:#eb8510;
+    border-style: solid;
+    border-width: 2px;
+}
+.offers{
+    color:rgb(112, 211, 95);
+    font-style: italic;
+    font-weight: 600;
+}
+.menucard-head1{
+    color: #eb8510;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: 700;
+}
+.follow-us-icon-container{
+    background-color: rgb(248, 246, 245);
+    width:80px;
+    height:80px;
+    border-radius:40px;
+    margin:15px;
+    padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+ 
+}
+.icon {
+    color:rgb(245, 122, 22);
+    font-size: 35px;
+}
+.icon-tern{
+    color:rgb(245, 122, 22);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 20px;
+    text-align:center;
+}
+.bgcontainerfollow{
+    background-color: rgba(0, 0, 0, 0.604);
+   
+}
+.main-intern-head{
+    padding-top:30px;
+    
+    color:rgb(245, 122, 22);
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+.footer-bg{
+    background-color: rgb(248, 154, 77);
+}
+.foot-head{
+    color:#ebeff3;
+    font-family: Roboto;
+    font-size:14px;
+    font-weight: 600;
+
+
+}
+.foot-para{
+    color:#ebeff3;
+    font-family: Roboto;
+    font-size:13px;
+    font-weight: 300;
+
+}
